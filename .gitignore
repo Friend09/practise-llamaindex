@@ -162,3 +162,5 @@ cython_debug/
 ref_llamaindex_bottomsup/
 ref_llamaindex_repo/
 .DS_Store
+data/Wiki*
+data/v1.0.2.zip
