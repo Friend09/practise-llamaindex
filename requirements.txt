@@ -11,9 +11,11 @@ m2r2
 myst-nb
 myst-parser
 openai
+pandas
 pydantic
 pypdf
 python-dotenv
+seaborn
+sphinx
 sphinx_rtd_theme
 sphinx-autobuild
-sphinx
