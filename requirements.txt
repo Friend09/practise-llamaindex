@@ -1,17 +1,19 @@
+autodoc_pydantic
+docutils
+elevenlabs # convert text to speech
+furo
 ipykernel
-python-dotenv
 llama-index
 llama-index-llms-anthropic
 llama-index-llms-mistralai
-pypdf
-openai
-elevenlabs # convert text to speech
-sphinx>=4.3.0
-furo>=2023.3.27
-docutils<0.17
+llama-index-readers-file
 m2r2
-myst-parser
 myst-nb
-sphinx-autobuild
+myst-parser
+openai
+pydantic
+pypdf
+python-dotenv
 sphinx_rtd_theme
-autodoc_pydantic
+sphinx-autobuild
+sphinx
