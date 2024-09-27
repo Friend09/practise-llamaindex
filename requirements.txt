@@ -1,16 +1,24 @@
+arize-phoenix
 autodoc_pydantic
 docutils
+duckdb-engine
 elevenlabs # convert text to speech
 furo
 ipykernel
 llama-index
+llama-index-llms-openai
 llama-index-llms-anthropic
 llama-index-llms-mistralai
 llama-index-readers-file
+llama-index-callbacks-arize-phoenix
 m2r2
 myst-nb
 myst-parser
 openai
+openinference-instrumentation-llama-index
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+opentelemetry-proto>=1.12.0
 pandas
 pydantic
 pypdf
